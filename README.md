@@ -1,7 +1,9 @@
-<h1> Hey there! I'm Nikhil Singh. <img src="https://raw.githubusercontent.com/mrnikhilsingh/mrnikhilsingh/main/Hi.gif" width="25"></h1>
+<h2> Hey there! I'm Nikhil Singh. <img src="https://raw.githubusercontent.com/mrnikhilsingh/mrnikhilsingh/main/Hi.gif" width="25"></h2>
 <h3>A passionate frontend developer.</h3>
 
 <img align="right" alt="GIF" src="https://github.com/mrnikhilsingh/mrnikhilsingh/blob/main/gif4.gif?raw=true" width="400"/>
+
+<br>
 
 <h3> 👨🏻‍💻 About Me </h3>
 
