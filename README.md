@@ -17,9 +17,9 @@
 
 <h3>🛠 Tech Stack</h3>
 
-- 💻 &nbsp; HTML | CSS | JavaScript | Tailwind | PHP
-- 🛢 &nbsp; MySQL | XAMPP |
-- 🔧 &nbsp; Visual Studio code | Git | Git Hub
+- 💻 &nbsp; HTML | CSS | JavaScript | React | Tailwind | PHP | Python | C/C++
+- 🛢 &nbsp; MySQL | XAMPP | Linux
+- 🔧 &nbsp; Visual Studio code | Git | GitHub
 - 🖥 &nbsp; Adobe Photoshop | Figma
 
 <br>
@@ -41,6 +41,8 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=tailwind" height="40" alt="tailwindcss logo"  />
   <img width="12" />
+  <img src="https://skillicons.dev/icons?i=react" height="40" alt="react logo"  />
+  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php logo"  />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/mysql/4479A1" height="40" alt="mysql logo"  />
@@ -56,6 +58,13 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=ps" height="40" alt="adobephotoshop logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=py" height="40" alt="python logo"/>
+  <img width="12" />
 </div>
 
 <br>
@@ -64,14 +73,12 @@
 
 <p>
 &nbsp; <a href="https://www.linkedin.com/in/nikhilsingh818/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/linkedin.png" width="50" /></a>
-&nbsp; <a href="mailto:m.j882600@gmail.com@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/gmail.png"  width="50" /></a>
+&nbsp; <a href="mailto:mrnikhilsingh88@gmail.com@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/gmail.png"  width="50" /></a>
 &nbsp; <a href="https://twitter.com/nikhilsingh818" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/twitter.png" width="50" /></a>  
 &nbsp; <a href="https://www.instagram.com/nikhilsingh.818/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/instagram-new.png" width="50" /></a>  
 </p>
 
-
-<!-- <img src="https://raw.githubusercontent.com/mrnikhilsingh/mrnikhilsingh/output/snake.svg" alt="Snake animation" /> -->
-
+<img src="https://raw.githubusercontent.com/mrnikhilsingh/mrnikhilsingh/output/snake.svg" alt="Snake animation" />
 
 #### **Visitor Count**
 
