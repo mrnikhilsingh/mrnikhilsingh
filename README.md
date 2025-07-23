@@ -35,7 +35,7 @@
 <div align="left">
   <img src="https://cdn.simpleicons.org/html5/E34F26" height="40" alt="html5 logo"  />
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/css3/1572B6" height="40" alt="css3 logo"  />
+  <img src="https://skillicons.dev/icons?i=css" height="40" alt="css3 logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo"  />
   <img width="12" />
@@ -43,6 +43,10 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=react" height="40" alt="react logo"  />
   <img width="12" />
+  <img src="https://cdn.simpleicons.org/redux/764ABC" height="40" alt="redux logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/jest/C21325" height="40" alt="jest logo"  />
+  <img width="12">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php logo"  />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/mysql/4479A1" height="40" alt="mysql logo"  />
@@ -80,6 +84,12 @@
 
 <img src="https://raw.githubusercontent.com/mrnikhilsingh/mrnikhilsingh/output/snake.svg" alt="Snake animation" />
 
-#### **Visitor Count**
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mrnikhilsingh/mrnikhilsingh/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mrnikhilsingh/mrnikhilsingh/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/mrnikhilsingh/mrnikhilsingh/output/pacman-contribution-graph.svg">
+</picture>
 
-![Visitor Count](https://profile-counter.glitch.me/{mrnikhilsingh}/count.svg)
+<br>
+
+![Visitor Count](https://komarev.com/ghpvc/?username=mrnikhilsingh&color=green&style=for-the-badge&base=1000)
