@@ -82,7 +82,7 @@
 &nbsp; <a href="https://www.instagram.com/nikhilsingh.818/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/instagram-new.png" width="50" /></a>  
 </p>
 
-<img src="https://raw.githubusercontent.com/mrnikhilsingh/mrnikhilsingh/output/snake.svg" alt="Snake animation" />
+<!-- <img src="https://raw.githubusercontent.com/mrnikhilsingh/mrnikhilsingh/output/snake.svg" alt="Snake animation" /> -->
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mrnikhilsingh/mrnikhilsingh/output/pacman-contribution-graph-dark.svg">
@@ -90,6 +90,6 @@
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/mrnikhilsingh/mrnikhilsingh/output/pacman-contribution-graph.svg">
 </picture>
 
-<br>
+<br><br>
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=mrnikhilsingh&color=green&style=for-the-badge&base=1000)
