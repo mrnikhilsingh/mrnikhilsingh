@@ -90,6 +90,6 @@
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/mrnikhilsingh/mrnikhilsingh/output/pacman-contribution-graph.svg">
 </picture>
 
-<br><br>
+<p></p>
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=mrnikhilsingh&color=green&style=for-the-badge&base=1000)
