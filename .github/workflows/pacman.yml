@@ -18,6 +18,12 @@ jobs:
     timeout-minutes: 5
 
     steps:
+      - name: Checkout output branch to dist
+        uses: actions/checkout@v4
+        with:
+          ref: output
+          path: dist
+
       - name: generate pacman-contribution-graph.svg
         uses: abozanona/pacman-contribution-graph@main
         with:
