@@ -1,25 +1,25 @@
-<h2> Hey there! I'm Nikhil Singh. <img src="https://raw.githubusercontent.com/mrnikhilsingh/mrnikhilsingh/main/Hi.gif" width="25"></h2>
-<h3>A passionate frontend developer.</h3>
+<h2>Hey there! I'm Nikhil Singh. <img src="https://raw.githubusercontent.com/mrnikhilsingh/mrnikhilsingh/main/Hi.gif" width="25"></h2>
+<h3>A passionate Frontend Developer.</h3>
 
-<img align="right" alt="GIF" src="https://github.com/mrnikhilsingh/mrnikhilsingh/blob/main/gif4.gif?raw=true" width="400"/>
+<img align="right" alt="GIF" src="https://github.com/mrnikhilsingh/mrnikhilsingh/blob/main/gif4.gif?raw=true" width="350"/>
 
 <br>
 
 <h3> 👨🏻‍💻 About Me </h3>
 
-- 🔭 &nbsp; improving my Frontend skills
-- 🤔 &nbsp; Exploring new technologies and quick hacks and making boring stuffs automated.
+- 🔭 &nbsp; Improving my Frontend development skills.
+- 🤔 &nbsp; Exploring new technologies, quick hacks, and automating boring tasks.
 - 🎓 &nbsp; Studying Computer Science and computer programming.
 - 💼 &nbsp; Developer by profession.
-- 🌱 &nbsp; MERN Stack Enthusiast.
-- ✍️ &nbsp; Trying out latest design trends.
+- 🌱 &nbsp; MERN Stack enthusiast.
+- ✍️ &nbsp; Trying out the latest design trends.
 - ☕ &nbsp; `coffee == 'perfectly brewed' ? mood = 'boosted' : '!boosted'`
 
 <h3>🛠 Tech Stack</h3>
 
-- 💻 &nbsp; HTML | CSS | JavaScript | React | Tailwind | PHP | Python | C/C++
+- 💻 &nbsp; HTML | CSS | JavaScript | React | Tailwind | PHP | Python | C / C++
 - 🛢 &nbsp; MySQL | XAMPP | Linux
-- 🔧 &nbsp; Visual Studio code | Git | GitHub
+- 🔧 &nbsp; Visual Studio Code | Git | GitHub
 - 🖥 &nbsp; Adobe Photoshop | Figma
 
 <br>
@@ -77,7 +77,7 @@
 
 <p>
 &nbsp; <a href="https://www.linkedin.com/in/nikhilsingh818/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/linkedin.png" width="50" /></a>
-&nbsp; <a href="mailto:mrnikhilsingh88@gmail.com@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/gmail.png"  width="50" /></a>
+&nbsp; <a href="mailto:mrnikhilsingh88@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/gmail.png"  width="50" /></a>
 &nbsp; <a href="https://twitter.com/nikhilsingh818" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/twitter.png" width="50" /></a>  
 &nbsp; <a href="https://www.instagram.com/nikhilsingh.818/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/instagram-new.png" width="50" /></a>  
 </p>
